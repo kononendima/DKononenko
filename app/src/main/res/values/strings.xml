@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TinkoffApp</string>
+
+    <string name="activity_main_developers_life"><b>Developers Life</b></string>
+    <string name="activity_main_tab_1">Последние</string>
+    <string name="activity_main_tab_2">Лучшие</string>
+    <string name="activity_main_tab_3">Горячие</string>
+    <string name="error">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="empty">Ничего нет</string>
 </resources>
